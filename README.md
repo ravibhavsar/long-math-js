@@ -25,10 +25,10 @@ const { math }  = require('long-math-js');
 math
   .addLong(x, y)
 
-Where x and y is a number string
+Where x and y is a number ** string **
 
 ## Functions
 
-Type         |
--------------|-----------------------
-arithmetic   | addLong()
+Type |  
+--- | --- 
+arithmetic | addLong()
