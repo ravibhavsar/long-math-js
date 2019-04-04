@@ -1,3 +1,1 @@
-const math = require('./functions/index');
-
-module.exports.math = math;
+module.exports.math = require('./functions/index');
