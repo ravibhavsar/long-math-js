@@ -1,1 +1,6 @@
-module.exports.math = require('./functions/index');
+
+const { addLong } = require('./functions/arithmetic/add-long');
+
+module.exports.math = {
+    addLong
+}
