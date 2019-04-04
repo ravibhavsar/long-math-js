@@ -1,5 +1,6 @@
 {
   "name": "long-math-js",
+  "version": "1.0.0",
   "description": "arithmetic operation for long integer",
   "keywords": [
     "large number",
@@ -10,7 +11,7 @@
     "long number addition"
   ],
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/ravibhavsar/long-math-js.git",
   "author": "ravdevz",
   "license": "MIT",
   "scripts": {
