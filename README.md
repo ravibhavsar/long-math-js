@@ -29,6 +29,6 @@ Where x and y is a number string
 
 ## Functions
 
-Type                      | 	
---------------------------|-----------------------
-arithmetic                | addLong()
+Type         |
+-------------|-----------------------
+arithmetic   | addLong()
